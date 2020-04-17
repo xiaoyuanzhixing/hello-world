@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-看看能不能写中文啊
+这么神奇的开源代码
